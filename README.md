@@ -1,5 +1,5 @@
 # LabSchool-Projeto2
-Projeto final do 1° modelo BackEnd curso DevinHouse
+Projeto final do 1° modelo BackEnd curso DevinHouse onde obtive a nota máxima. 
 
 DEVinHouse
 Módulo 1 - Projeto Avaliativo 2
@@ -423,87 +423,11 @@ HTTP Status Code 404 (Not Found) em caso de Aluno ou Pedagogo não encontrado co
 A tabela abaixo apresenta os critérios que serão avaliados durante a correção do projeto. O mesmo possui variação de nota de 0 (zero) a 10 (dez) como nota mínima e máxima, e possui peso de 40% sobre a avaliação do módulo.
 Serão desconsiderados e atribuída a nota 0 (zero) os projetos que apresentarem plágio de soluções encontradas na internet ou de outros colegas. Lembre-se: Você está livre para utilizar outras soluções como base, mas não é permitida a cópia.
 
-Nº
-Critério de Avaliação
-0
-0,5
-1
-1
-Aluno implementou a Carga Inicial de dados na aplicação (RF01)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-2
-Aluno implementou cadastro de alunos (RF02)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-3
-Aluno implementou a  Atualização da Situação da Matrícula de Aluno (RF03)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-4
-Aluno implementou a Consulta de Alunos (RF04)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-5
-Aluno implementou a Consulta de Aluno pelo Código (RF05)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-6
-Aluno implementou Exclusão de Alunos (RF06)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-7
-Aluno implementou a Consulta de Professores (RF07)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-8
-Aluno implementou a Consulta de Pedagogos (RF08)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-9
-Aluno implementou a Realização de Atendimento Pedagógico
-(RF09)
-Aluno não implementou.
-Aluno implementou parcialmente.
-Aluno implementou corretamente.
-10
-Avaliação de Código:
-Aluno seguiu convenções da linguagem e do framework; 
-Deixou código organizado e de fácil entendimento.
-Aluno não atendeu aos critérios.
-Aluno atendeu parcialmente aos critérios.
-Aluno atendeu completamente aos critérios.
-
 
 5 ENTREGA
 O código desenvolvido deverá ser submetido no Github, e o link deverá ser disponibilizado na tarefa Módulo 1 - Projeto Avaliativo 2, presente na semana 12 do AVA até o dia 11/12/2022 às 23h55.
 
 
-
-
-Todos os alunos deverão entregar o link do seu repositório do Github na atividade do AVA! 
-
-
-
-
-
-O repositório deverá ser privado, com as seguintes pessoas adicionadas:
-Tiago Albuquerque - tiagoamp  (tiagoamp@gmail.com)
-Fernando Puntel - fernando.puntel@edu.sc.senai.br
-
-Não serão aceitos projetos submetidos após a data limite da atividade, e, ou alterados depois de entregues.
-
-Importante:
-Será considerado como data final de entrega a última atualização no repositório do projeto no Github. Lembre-se de não modificar o código até receber sua nota.
-Não esqueça de submeter submeter o link no AVA.
 
 6 PLANO DE PROJETO
 Ao construir a aplicação proposta, o aluno estará colocando em prática os aprendizados em:
